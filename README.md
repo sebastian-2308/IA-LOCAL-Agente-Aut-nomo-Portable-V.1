@@ -7,7 +7,7 @@ para descargarlo aqui les dejo el enlace https://drive.google.com/file/d/1J364OF
 ---
 
 ## ✨ ¿Qué hace esta IA?
-*Adevertencia la Ia puede q funcione un poco lenta ya que al hacerla 100% portable hace que funcione no tan rapido (estoy trabajando en esto)
+*Adevertencia la IA puede q funcione un poco lenta ya que al hacerla 100% portable hace que funcione no tan rapido (estoy trabajando en esto)
 Es un agente autónomo que entiende órdenes en español y las ejecuta directamente en tu PC. Puedes hablarle o escribirle y él:
 
 - Abre programas, carpetas y sitios web
